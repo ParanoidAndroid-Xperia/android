@@ -314,6 +314,10 @@
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" remote="aosp" revision="jb-dev" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7.3" name="garwedgess/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7.3" />
+  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7.3" name="garwedgess/android_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.7.3" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7.3" name="garwedgess/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7.3" />
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.7.3" name="garwedgess/android_prebuilt_linux-x86_toolchain_arm-eabi-4.7.3" />
   <project path="prebuilts/misc" name="CyanogenMod/android_prebuilts_misc" />
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-dev" />
