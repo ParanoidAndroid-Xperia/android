@@ -1,4 +1,4 @@
-ParanoidAndroid [Utacka]
+ParanoidAndroid [wedgess]
 ===============
 
 Getting Started
@@ -9,10 +9,14 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the ParanoidAndroid trees, use a command like this:
 
-    repo init -u git://github.com/Utacka/android.git -b jellybean
+    repo init -u git://github.com/garwedgess/android.git -b jellybean
 
 Then to sync up:
 
     repo sync
 
-For information on how to build, check [Here](https://github.com/Utacka/paranoid)
+       or
+
+    repo sync -j#       
+
+For information on how to build, check [Here](https://github.com/garwedgess/paranoid)
